@@ -1,7 +1,6 @@
 ---
 title: Tiramisu
-portions: 8
-repos: 2h minimum au frigo
+repos: 4h minimum au frigo
 tags: dessert
 lang: fr
 ---
@@ -10,30 +9,32 @@ lang: fr
 
 ## Étape 1
 
-Séparer les blancs des jaunes de {{ 5 oeufs }}.
+Séparer les blancs des jaunes de {{ 3 oeufs }}. Mélanger les jaunes avec la moitié de {{ 60g de sucre }} jusqu'à ce qu'ils blanchissent. Ajouter {{ 250g de mascarpone }}.
 
 ## Étape 2
 
-Battre les jaunes avec {{ 5 cas de sucre }}.
+Monter les blancs en neige ferme. Ajouter le reste du sucre à la fin pour serrer les blancs.
 
 ## Étape 3
 
-Monter les blancs en neige avec une {{ pincée de sel }}.
+Incorporer délicatement les blancs au mélange.
 
 ## Étape 4
 
-Mélanger {{ 500g de mascarpone }} avec les jaunes sucrés, puis incorporer délicatement les blancs en neige.
+Préparer {{ 3 tasses de café fort }}, éventuellement avec {{ 1 cas de rhum }}.
 
 ## Étape 5
 
-Alterner des couches de {{ 400g de boudoirs }} trempés dans du {{ café fort }} et de crème.
+Tremper {{ 24 biscuits à la cuillère }} dans le café et en tapisser le fond du moule.
 
 ## Étape 6
 
-Laisser au moins 2h au frigo (idéalement 1 jour).
+Alterner une couche de crème et une couche de biscuits. Finir par la crème.
 
-Saupoudrer de {{ cacao amer en poudre }} juste avant de servir.
+## Étape 7
 
-## Conseils
+Saupoudrer de {{ cacao }}.
 
-- Ajouter {{ 1/2 verre de rhum ou d'Amaretto }} dans le café
+## Étape 8
+
+Mettre au frais au moins 4h.
