@@ -1,7 +1,7 @@
 ---
 title: Semoule
 cuisson: 10min
-tags: base, facile, économique
+tags: base, facile, économique, tunisien
 lang: fr
 ---
 

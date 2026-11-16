@@ -1,7 +1,7 @@
 ---
 title: Makhbouba ou chakchouka
 cuisson: 2h
-tags: plat, végétarien
+tags: plat, végétarien, tunisien
 lang: fr
 ---
 

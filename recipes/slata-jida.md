@@ -1,6 +1,6 @@
 ---
 title: Slata jida
-tags: vegan, été
+tags: vegan, été, tunisien
 lang: fr
 ---
 
