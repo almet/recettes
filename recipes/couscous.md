@@ -1,5 +1,6 @@
 ---
 title: Couscous
+portions: 1
 cuisson: 1h
 tags: plat, viande, tunisien
 lang: fr

@@ -1,5 +1,6 @@
 ---
 title: Pâte de piment
+portions: 1
 repos: 1 mois
 tags: base, vegan
 lang: fr

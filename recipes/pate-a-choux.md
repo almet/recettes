@@ -1,5 +1,6 @@
 ---
 title: Pâte à choux
+portions: 1
 tags: base
 lang: fr
 ---

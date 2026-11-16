@@ -1,5 +1,6 @@
 ---
 title: Cream cheese vegan
+portions: 1
 tags: base, vegan
 lang: fr
 ---

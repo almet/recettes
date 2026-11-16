@@ -1,5 +1,6 @@
 ---
 title: Ceviche de truite
+portions: 1
 tags: plat, poisson
 lang: fr
 ---

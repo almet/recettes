@@ -1,5 +1,6 @@
 ---
 title: Arissa aux amandes
+portions: 1
 cuisson: 40min
 repos: 1 jour
 tags: dessert, gâteau, tunisien

@@ -1,5 +1,6 @@
 ---
 title: Pâte à pizza de Damian
+portions: 1
 repos: 24h
 tags: base, vegan
 lang: fr

@@ -1,5 +1,6 @@
 ---
 title: Tiramisu vegan
+portions: 1
 tags: dessert, vegan
 lang: fr
 ---

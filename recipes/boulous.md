@@ -1,5 +1,6 @@
 ---
 title: Boulous
+portions: 1
 cuisson: 25min
 tags: dessert, biscuits, tunisien
 lang: fr

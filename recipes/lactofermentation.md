@@ -1,5 +1,6 @@
 ---
 title: Lactofermentation
+portions: 1
 tags: base, vegan
 lang: fr
 ---

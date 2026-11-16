@@ -1,5 +1,6 @@
 ---
 title: Houmous
+portions: 1
 tags: snack, vegan, facile, tunisien
 lang: fr
 ---

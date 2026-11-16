@@ -1,5 +1,6 @@
 ---
 title: Tarte chocolat-poire
+portions: 1
 cuisson: 40min
 tags: dessert, tarte, chocolat, vegan
 lang: fr

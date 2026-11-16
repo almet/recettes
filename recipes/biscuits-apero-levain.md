@@ -1,5 +1,6 @@
 ---
 title: Biscuits apéro au levain
+portions: 1
 tags: snack, économique
 lang: fr
 ---

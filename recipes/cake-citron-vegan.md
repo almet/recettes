@@ -1,5 +1,6 @@
 ---
 title: Cake au citron vegan
+portions: 1
 cuisson: 40min
 tags: dessert, gâteau, vegan
 lang: fr

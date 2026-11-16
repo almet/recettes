@@ -1,5 +1,6 @@
 ---
 title: Bagels vegan
+portions: 1
 tags: base, vegan
 lang: fr
 ---

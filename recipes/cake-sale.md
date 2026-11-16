@@ -1,5 +1,6 @@
 ---
 title: Cake salé
+portions: 1
 cuisson: 45min
 tags: plat, facile
 lang: fr

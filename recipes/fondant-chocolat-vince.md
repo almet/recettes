@@ -1,5 +1,6 @@
 ---
 title: Fondant au chocolat de Vince
+portions: 1
 cuisson: 15min
 tags: dessert, gâteau, chocolat
 lang: fr

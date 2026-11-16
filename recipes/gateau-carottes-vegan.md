@@ -1,5 +1,6 @@
 ---
 title: Gâteau aux carottes vegan
+portions: 1
 tags: dessert, gâteau, vegan
 lang: fr
 ---

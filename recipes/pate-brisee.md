@@ -1,5 +1,6 @@
 ---
 title: Pâte brisée
+portions: 1
 tags: base, vegan
 lang: fr
 ---

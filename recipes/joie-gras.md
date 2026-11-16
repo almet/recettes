@@ -1,5 +1,6 @@
 ---
 title: Joie gras
+portions: 1
 tags: vegan
 lang: fr
 ---

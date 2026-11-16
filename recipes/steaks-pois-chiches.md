@@ -1,5 +1,6 @@
 ---
 title: Steaks de pois chiches
+portions: 1
 tags: plat, végétarien
 lang: fr
 ---

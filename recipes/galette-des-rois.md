@@ -1,5 +1,6 @@
 ---
 title: Galette des rois
+portions: 1
 cuisson: 15min
 tags: dessert
 lang: fr

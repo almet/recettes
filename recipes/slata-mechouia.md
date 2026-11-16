@@ -1,5 +1,6 @@
 ---
 title: Slata mechouia
+portions: 1
 tags: vegan, été, tunisien
 lang: fr
 ---

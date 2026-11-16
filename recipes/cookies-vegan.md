@@ -1,5 +1,6 @@
 ---
 title: Cookies vegan
+portions: 1
 cuisson: 15min
 tags: dessert, biscuits, vegan
 lang: fr

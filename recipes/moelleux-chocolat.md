@@ -1,5 +1,6 @@
 ---
 title: Moelleux au chocolat
+portions: 1
 cuisson: 50min
 tags: dessert, gâteau, chocolat
 lang: fr

@@ -1,5 +1,6 @@
 ---
 title: Banana bread vegan
+portions: 1
 cuisson: 50min
 tags: dessert, gâteau, vegan
 lang: fr

@@ -1,5 +1,6 @@
 ---
 title: Pâte à pizza rapide
+portions: 1
 tags: base, vegan, facile
 lang: fr
 ---

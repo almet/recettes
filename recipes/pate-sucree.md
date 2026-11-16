@@ -1,5 +1,6 @@
 ---
 title: Pâte sucrée vegan
+portions: 1
 tags: base, vegan
 lang: fr
 ---

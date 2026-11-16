@@ -1,5 +1,6 @@
 ---
 title: Fromage vegan à la patate
+portions: 1
 tags: base, vegan
 lang: fr
 ---

@@ -1,5 +1,6 @@
 ---
 title: Tiramisu
+portions: 1
 repos: 4h minimum au frigo
 tags: dessert
 lang: fr

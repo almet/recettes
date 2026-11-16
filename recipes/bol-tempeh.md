@@ -1,5 +1,6 @@
 ---
 title: Bol de tempeh
+portions: 1
 tags: plat, vegan
 lang: fr
 ---
