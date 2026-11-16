@@ -1,5 +1,5 @@
 build:
-	uvx recettes build recipes
+	uv run --project ../python-recettes recettes build recipes --diagrams
 publish: build
 	rsync -qazP site/. notmyidea:recettes.notmyidea.org/
 	git push

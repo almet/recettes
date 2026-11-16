@@ -23,7 +23,7 @@ Hors du feu, incorporez la {{ 30 g de margarine }} (tester sans ?).
 
 ## Étape 4
 
-Sans attendre que la crème refroidisse, versez le tout dans le saladier par-dessus le {{ yaourt égoutté }} et mélangez bien au fouet pour obtenir une crème homogène.
+Sans attendre que la crème refroidisse, versez le tout dans le saladier par-dessus le {{ yaourt de soja égoutté }} (ça marche sûrement avec du yaourt d'avoine) et mélangez bien au fouet pour obtenir une crème homogène.
 
 ## Étape 5
 
